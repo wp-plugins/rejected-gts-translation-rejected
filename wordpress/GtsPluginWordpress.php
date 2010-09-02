@@ -922,7 +922,7 @@ if(!gtsenv_is_wp_loaded()) {
  * now that the WP runtime is loaded up, we'll define all our constants.
  */
 
-define( 'GTS_PLUGIN_NAME', 'gts' );
+define( 'GTS_PLUGIN_NAME', 'rejected-gts-translation-rejected' );
 define( 'GTS_PLUGIN_DIR', WP_PLUGIN_DIR . DIRECTORY_SEPARATOR . GTS_PLUGIN_NAME );
 define( 'GTS_PLUGIN_URL', trailingslashit( WP_PLUGIN_URL ) . basename( GTS_PLUGIN_DIR) );
 
