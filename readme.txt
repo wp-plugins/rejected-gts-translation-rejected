@@ -1,4 +1,4 @@
-=== GTS Translation Plugin ===
+=== Plugin Name ===
 Contributors: stevevls
 Tags: translate, translation, crowdsourcing
 Requires at least: 2.8.0
